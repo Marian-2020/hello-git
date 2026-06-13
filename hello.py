@@ -1,1 +1,1 @@
-print("Hello. This file should land on a github repository")
+print("Goodbye! This file should land on a github repository")
